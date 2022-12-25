@@ -1,0 +1,87 @@
+*{
+    margin:0;
+    padding:0;
+}
+.container{
+    font-family: "Lato";
+    font-weight: bold;
+    max-width: 400px;
+    margin:auto;
+    background-color: #fcc755;
+    padding:70px;           
+    width:400px;
+    height:510px;
+    position:relative;
+    padding-top:45px
+
+}
+h1{
+    text-align: center;
+    margin-top:0px;
+    font-family:"Lato";
+    margin-bottom:40px;
+    color:black
+
+}
+input{
+    border:none;
+    border-radius: 5px;
+    width:100%;
+    display:block;
+    padding:20px;
+    box-sizing: border-box;
+    margin-bottom:10px;
+    font-size: 18px;
+}
+body{
+    margin:0;
+    font-family:"Lato";
+    background-color:#f6e7d3;
+}
+
+.edit-block{
+    display:flex;
+    margin-top:10px;
+    
+}
+.edit-block img{
+    width:2rem;
+    position:relative;
+    top:0.5rem;
+    margin-right:15px;
+    margin-top:10px;
+    
+}
+button{
+    cursor: pointer;
+    font-family:"Lato";
+    font-size: 30px;
+    
+    margin-bottom:100px;
+    padding:20px;
+    position:absolute;
+    right:200px;
+    border-radius:50px;
+    border:none
+}
+.churras{
+    width:300px;
+    position:absolute;
+    bottom:170px;
+    right:600px;
+
+}
+.dance{
+    width:300px;
+    position:absolute;
+    bottom:170px;
+    left:600px;
+
+}
+#resultado{
+    color:black;
+    font-size: 20px;
+    text-align: center;
+    margin-top:80px;
+    margin-left:90px
+}
