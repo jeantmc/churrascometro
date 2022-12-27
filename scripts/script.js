@@ -22,20 +22,20 @@ function calcular(){
     resultado.innerHTML = `
     <div class="edit-block">
       
-      <p><img src="../img/meat.png">${qntTotalCarne/1000} Kg de Carne</p>
+      <p><img src="./img/meat.png">${qntTotalCarne/1000} Kg de Carne</p>
     </div>
   `
   
     
     resultado.innerHTML += `
     <div class="edit-block">
-    <p><img src="../img/beer.png">${Math.ceil(qntTotalCeva/355)} Latas de Cerveja</p>
+    <p><img src="./img/beer.png">${Math.ceil(qntTotalCeva/355)} Latas de Cerveja</p>
     </div>
     `
     
     resultado.innerHTML += `
     <div class="edit-block">
-    <p><img src="../img/refri.png">${Math.ceil(qntTotalBebidas/2000)} Pet de 2L de Bebida</p>
+    <p><img src="./img/refri.png">${Math.ceil(qntTotalBebidas/2000)} Pet de 2L de Bebida</p>
     </div>
     `
 }
