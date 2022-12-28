@@ -11,10 +11,17 @@
   <div align="center">
     Projeto Desenvolvido no curso ProgBR
     </div>
+    <br>
+    <div align="center">
+    <a href="https://jeantmc.github.io/churrascometro/"> Teste o Site
+    </a>
+    </div>
     </br>
+    <div>
     <p align="center">
     <img src="./img/a.png" width="2000px">
     </p>
+    </div>
     <p align="center">
   <a href="#clipboard-sobre-o-projeto">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-tecnologias-utilizadas">Tecnologias</a></p>
